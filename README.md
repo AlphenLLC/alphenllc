@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **I lost my sanity while working on CSS conflicts.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
