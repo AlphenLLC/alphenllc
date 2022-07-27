@@ -3,13 +3,15 @@
 
 *I feel nothing but everlasting pain on this account.*
 
-- 🔭 I’m currently working on **a school website.**
+- 🌱 I’m also known as **AlphenLimited and AlphenLeftHome!**
 
-- 🌱 I’m currently learning **Vue.js**
+- 🔪 I’m currently working on **an organization website.**
 
-- 📄 I hate reading **framework docs.**
+- 💜 I’m currently learning **Vue.js**
 
-- ⚡ Fun fact **I lost my sanity while working on CSS conflicts.**
+- 🧻 I hate reading **documents.**
+
+- ✨ Fun fact! **I lost my sanity while working on CSS conflicts.**
 
 <p align="left">
 </p>
