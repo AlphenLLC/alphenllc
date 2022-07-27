@@ -11,7 +11,7 @@
 
 - 🧻 I hate reading **documents.**
 
-- ✨ Fun fact! **I lost my sanity while working on CSS conflicts.**
+- ✨ Fun fact! **I lost my sanity while fixing CSS conflicts.**
 
 <p align="left">
 </p>
