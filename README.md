@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alphen!</h1>
-<h3 align="center">An online gangsta (AS4L fo sho!) from the depths of hell!</h3>
+<h3 align="center">I don't know how to code.</h3>
 
 *I feel nothing but everlasting pain on this account.*
 
