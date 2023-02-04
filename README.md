@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alphen</h1>
 <h3 align="center">And I don't know how to code.</h3>
-_I feel nothing but everlasting pain on this account._
 
 - 🔭 I’m currently working on [Varank Hub](https://github.com/Varank-IT/varank)
 
@@ -10,7 +9,7 @@ _I feel nothing but everlasting pain on this account._
 
 - 💜 All of my projects are available at [https://github.com/Varank-IT/](https://github.com/Varank-IT/)
 
-- 🌱 Ask me about **how to have a mental breakdown**
+- 🌱 I feel nothing but **everlasting pain on this account.**
 
 - 📫 You can reach me via **tempalora@hotmail.com**
 
