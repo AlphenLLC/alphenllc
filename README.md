@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alphen</h1>
 <h3 align="center">And I don't know how to code.</h3>
-* I feel nothing but everlasting pain on this account. *
+*I feel nothing but everlasting pain on this account.*
 
 - 🔭 I’m currently working on [Varank Hub](https://github.com/Varank-IT/varank)
 
